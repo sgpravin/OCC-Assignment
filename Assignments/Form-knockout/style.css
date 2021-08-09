@@ -1,0 +1,18 @@
+.container {
+    background-color: yellow;
+}
+.field{
+    padding:20px;
+}
+input[type=submit]{
+    width:100%;
+    padding:10px;
+    border-radius: 10px;
+}
+input:hover{
+    background-color: lightgreen;
+}
+.validationMessage{
+    color:red;
+    font-size: small;
+}

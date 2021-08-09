@@ -1,0 +1,35 @@
+body {
+    background:yellow;
+    margin: 50px;
+    line-height: 20px;
+}
+
+.first{
+    display: none;
+    font-size: small;
+    color: red;
+}
+
+.last{
+    display: none;
+    font-size: small;
+    color: red;
+}
+
+.gender{
+    display: none;
+    font-size: small;
+    color: red;
+}
+
+.email{
+    display: none;
+    font-size: small;
+    color: red;
+}
+.course{
+    display: none;
+    font-size: small;
+    color: red;
+}
+
